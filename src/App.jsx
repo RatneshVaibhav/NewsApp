@@ -6,7 +6,7 @@ import ErrorDisplay from './components/ErrorDisplay';
 import NoArticles from './components/NoArticles';
 import Footer from './components/Footer';
 
-const API_KEY = 'a462e00e7ffd4ea6a9cf26c22c1b9767'; 
+const API_KEY = 'pub_82132e18d0582ba2667a195a87938a5e1b9cb'; 
 
 const App = () => {
   const [articles, setArticles] = useState([]);
