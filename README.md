@@ -1,4 +1,4 @@
-#WEBSITE: [NewsApp](https://github.com/RatneshVaibhav/NewsApp)
+ WEBSITE LINK: [NewsApp]([https://github.com/RatneshVaibhav/NewsApp](https://news-app-izto.vercel.app/))
 
 ---
 
