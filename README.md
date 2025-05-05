@@ -1,4 +1,4 @@
-Sure! Here's the final **README.md** file for your [NewsApp](https://github.com/RatneshVaibhav/NewsApp), ready to copy and paste into your project:
+#WEBSITE: [NewsApp](https://github.com/RatneshVaibhav/NewsApp)
 
 ---
 
@@ -66,7 +66,7 @@ npm run build
 
 
 
-```
+
 
 ---
 
