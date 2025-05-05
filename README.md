@@ -68,6 +68,10 @@ npm run build
 
 
 
----
+#Screenshot of the website:
+![image](https://github.com/user-attachments/assets/2c72172a-b884-47ef-87e7-2d3d042adffb)
+![image](https://github.com/user-attachments/assets/7dae98d0-93ee-4fc7-b9e3-cd9503bd8975)
+
+
 
 
