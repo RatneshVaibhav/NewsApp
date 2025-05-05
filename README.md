@@ -1,4 +1,4 @@
- WEBSITE LINK: [NewsApp]([https://github.com/RatneshVaibhav/NewsApp](https://news-app-izto.vercel.app/))
+ WEBSITE LINK: [NewsApp](news-app-izto.vercel.app))
 
 ---
 
